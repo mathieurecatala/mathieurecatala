@@ -2,8 +2,6 @@
 
 Final-year MSc student in **Cybersecurity & AI** at EFREI Paris, working at the intersection of **security, blockchain and applied AI**. Currently an IS internal auditor (apprenticeship) at Groupe VYV — ISO 27001/HDS audits, DORA & AI Act impact analysis. Previously DevSecOps and monitoring automation at BPCE-IT.
 
-Open to **full-time roles from October 2026** — remote-first, Europe-wide.
-
 ## Projects
 
 ### 🛡️ [ChainGuard](https://github.com/mathieurecatala/chainguard-showcase)
